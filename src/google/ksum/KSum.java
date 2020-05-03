@@ -1,7 +1,5 @@
 package google.ksum;
 
-import java.math.BigDecimal;
-import java.math.BigInteger;
 import java.util.HashSet;
 import java.util.Set;
 
